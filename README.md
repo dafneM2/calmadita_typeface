@@ -38,8 +38,3 @@ El torneo fue una competencia amistosa entre miembrxs de la comunidad Mexicana y
 
 Siéntete libre de usar y contribuir al desarrollo de Calmadita.
 Esta fuente es mantenida por Dafne Martínez, puedes acércarte a ella para recibir mayor información acerca de la dirección del proyecto y en qué áreas puedes enfocar tus esfuerzos.
-
-
-
-
-# calmadita
